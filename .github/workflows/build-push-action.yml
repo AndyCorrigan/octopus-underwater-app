@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: AndyOctopus/octopus-underwater-app:latest
+          tags: andyoctopus/octopus-underwater-app:latest
